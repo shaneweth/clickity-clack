@@ -1,0 +1,5 @@
+.tileBody {
+    width: 3em; 
+    height: 3em;
+    border: red 2px solid;
+}
