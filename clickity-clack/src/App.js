@@ -1,5 +1,7 @@
 import React from 'react';
-import logo from './logo.svg';
+import Tile from './components/Tile';
+import TileWrap from './components/TileWrap';
+import Header from './components/Header';
 import './App.css';
 
 function App() {
